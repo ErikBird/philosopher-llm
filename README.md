@@ -1,4 +1,4 @@
-# Privacy-First Therapist LLM
+# Privacy-First Philosopher LLM
 
 ## Description
 
@@ -7,8 +7,6 @@ It is local only, thanks to the amazing work of [web-llm](https://github.com/mlc
 
 ## Features
 
-* Therapeutic Conversations: Engage in conversations with an AI assistant that acts like a therapist.
-* Existential Therapy Principles: The AI assistant uses principles and practices of existential therapy.
 * Real-time Chat: Real-time chat interface with typing indicators and message loading states.
 * Privacy First: No input data is shared with any cloud computation.
 
